@@ -17,7 +17,7 @@ For more information about instance class pricing, see [Amazon RDS pricing](http
 Amazon RDS supports three types of instance classes: Standard, Memory Optimized, and Burstable Performance\. For more information about Amazon EC2 instance types, see [Instance type](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instance-types.html) in the Amazon EC2 documentation\. 
 
 The following are the Standard DB instance classes available:
-+ **db\.m6g** – General\-purpose instance classes powered by AWS Graviton2 processors\. These deliver balanced compute, memory, and networking for a broad range a general purpose workloads\.
++ **db\.m6g** – General\-purpose instance classes powered by AWS Graviton2 processors\. These deliver balanced compute, memory, and networking for a broad range of general purpose workloads\.
 
   You can modify a DB instance to use one of the DB instance classes powered by AWS Graviton2 processors by completing the same steps as any other DB instance modification\.
 + **db\.m5d** – Newest generation instance classes that are optimized for low latency, very high random I/O performance, and high sequential read throughput\.
